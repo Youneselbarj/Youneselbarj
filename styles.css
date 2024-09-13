@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #111;
+    color: #fff;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 1rem;
+    background-color: #222;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: #00ffff;
+}
+
+header p {
+    color: #bbb;
+}
+
+nav a {
+    margin: 0 1rem;
+    color: #00ffff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #111;
+    text-align: center;
+}
+
+.profile-container {
+    max-width: 600px;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #00ffff;
+    margin-bottom: 1rem;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.btn, .btn-outline {
+    padding: 0.75rem 1.5rem;
+    margin: 0 0.5rem;
+    border: 2px solid #00ffff;
+    color: #00ffff;
+    background-color: transparent;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.btn {
+    background-color: #00ffff;
+    color: #111;
+}
+
+.btn:hover, .btn-outline:hover {
+    background-color: #00ffff;
+    color: #111;
+}
+
+#services, #testimonials, #education, #contact {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+.services-container, .testimonials-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.service-item, .testimonial {
+    background-color: #222;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);
+}
+
+.service-item h3, .testimonial h4 {
+    color: #00ffff;
+}
+
+.timeline {
+    margin-top: 2rem;
+}
+
+.timeline-item {
+    background-color: #222;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);
+}
+
+#contact form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 2px solid #00ffff;
+    background-color: transparent;
+    color: #fff;
+}
+
+button {
+    width: 100%;
+    padding: 0.75rem;
+    border: 2px solid #00ffff;
+    background-color: #00ffff;
+    color: #111;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #111;
+    color: #00ffff;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    background-color: #222;
+    color: #00ffff;
+}
