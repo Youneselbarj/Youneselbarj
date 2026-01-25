@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="ttps://tryhackme-badges.s3.amazonaws.com/This1s.Tchi.Tchi.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/This1s.Tchi.Tchi.png" alt="Your Image Badge" />
 </p>
 
 <p align="center">
@@ -67,7 +67,6 @@ Offensive Security Researcher & Penetration Tester specializing in
 
 ###  Operating Systems
 <p align="left">
-  <img src="assets/os/parrot.png" width="42" title="Parrot Security"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/fedora.png" alt="fedora"/>
@@ -158,5 +157,5 @@ Offensive Security Researcher & Penetration Tester specializing in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youneselbarj&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youneselbarj" alt="GitHub Streak" />
 </p>
