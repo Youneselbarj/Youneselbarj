@@ -156,6 +156,3 @@ Offensive Security Researcher & Penetration Tester specializing in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youneselbarj&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youneselbarj" alt="GitHub Streak" />
-</p>
