@@ -157,5 +157,5 @@ Offensive Security Researcher & Penetration Tester specializing in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youneselbarj" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youneselbarj&theme=dark" alt="GitHub Streak" />
 </p>
