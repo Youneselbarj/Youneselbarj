@@ -55,7 +55,7 @@
 ---
 
 ##  Profile
-Offensive Security Researcher & Penetration Tester specializing in  
+Offensive Security  & Penetration Tester specializing in  
 <strong>Web,  Active Directory And Network Security</strong>.
 
 -  Strong focus on exploitation, reconnaissance & automation
