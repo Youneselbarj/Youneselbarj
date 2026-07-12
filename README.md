@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youneselbarj.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF66&height=200&section=header&text=Younes%20El%20Barj&fontSize=50&fontColor=00FF66&animation=twinkling&desc=Cybersecurity%20Engineer%20|%20Red%20Team%20|%%20Blue%20Team%20&descAlignY=75&descAlign=50" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF66&height=200&section=header&text=Younes%20El%20Barj&fontSize=50&fontColor=00FF66&animation=twinkling&desc=Cybersecurity%20Engineer%20|%20Red%20Team%20|Blue%20Team%20&descAlignY=75&descAlign=50" alt="Header" />
   </a>
 </div>
 
