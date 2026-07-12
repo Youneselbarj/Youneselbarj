@@ -19,7 +19,7 @@
 <br>
 
 ```bash
-                  .o+`                   younes@elbarj ---------------------------------------
+                  .o+`                   younes elbarj ---------------------------------------
                  `ooo/                   OS: ................. Windows 11, Kali Linux, Ubuntu
                 `+oooo:                  Role: ............... Cybersecurity Engineering Student
                `+oooooo:                 Focus: .............. Blue Team, Red Team, DevSecOps
