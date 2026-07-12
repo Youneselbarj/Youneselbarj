@@ -22,7 +22,7 @@
                   .o+`                   younes@elbarj ---------------------------------------
                  `ooo/                   OS: ................. Windows 11, Kali Linux, Ubuntu
                 `+oooo:                  Role: ............... Cybersecurity Engineering Student
-               `+oooooo:                 Focus: .............. Blue Team, SOC, DevSecOps, IAM
+               `+oooooo:                 Focus: .............. Blue Team, Red Team, DevSecOps
                -+oooooo+:                Location: ........... Casablanca, Morocco 🇲🇦
                  `/:-:++o:               Education.1: ........ Engineering in CS & Networks (EMSI)
                   `/++++/++:             Education.2: ........ Spec. Tech in Cybersecurity (OFPPT)
@@ -33,7 +33,8 @@
              `+oooooooooooooo:           Programming: ........ Python, Bash, C++, SQL, PL/SQL
            `++oooooooooooo++`            
          `+o+oooooooooooo+o+`            - Security ------------------------------------------
-       `+o++oooooooooooo++o+`            Domains: ............ Threat Hunting, Incident Response
-      -oo+++oooooooooooo+++oo-           Infrastructure: ..... Active Directory, SIEM, SOAR
-     -ooo+++oooooooooooo+++ooo-          Methodologies: ...... OWASP Top 10, PTES
-    `+ooo+++oooooooooooo+++ooo+`         Tools: .............. Splunk, Wazuh, Suricata, TheHive
+       `+o++oooooooooooo++o+`            Domains: ............ Threat Hunting, Incident Response, Penetration Testing 
+      -oo+++oooooooooooo+++oo-           Infrastructure: ..... Active Directory, SIEM, SOAR..
+     -ooo+++oooooooooooo+++ooo-          Methodologies: ...... OWASP Top 10 WEB , MOBILE LLM , PTES, NIST 
+    `+ooo+++oooooooooooo+++ooo+`         Tools: .............. Splunk, Wazuh, Suricata, TheHive, Nmap, metasploit, ....
+                                         Hobbies : ........... Playing CTFs, 
