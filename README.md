@@ -22,7 +22,7 @@
                   .o+`                   younes elbarj ---------------------------------------
                  `ooo/                   OS: ................. Windows 11, Kali Linux, Ubuntu
                 `+oooo:                  Role: ............... Cybersecurity Engineering Student
-               `+oooooo:                 Focus: .............. Blue Team, Red Team, DevSecOps
+               `+oooooo:                 Focus: .............. Red Teaming , Blue Teaming
                -+oooooo+:                Location: ........... Casablanca, Morocco 🇲🇦
                  `/:-:++o:               Education.1: ........ Engineering in CS & Networks (EMSI)
                   `/++++/++:             Education.2: ........ Spec. Tech in Cybersecurity (OFPPT)
